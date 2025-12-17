@@ -8,12 +8,13 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer (Frontend-Focused) • AI Integration Engineer
+  Full-Stack Software Engineer • AI Integration Engineer
 </h3>
 
 <p align="center">
   <em>
-    I build fast, scalable, and AI-powered web applications with exceptional user experience.
+    I design, build, and scale full-stack applications — from backend architecture and APIs 
+    to high-performance user interfaces and AI-powered systems.
   </em>
 </p>
 
@@ -30,53 +31,60 @@
 
 ## 🟢 About Me
 
-I am a **Frontend-Focused Full Stack Developer and AI Integration Engineer** with hands-on experience building production-ready applications across **fintech, healthcare, SaaS, and AI platforms**.
+I am a **Full-Stack Software Engineer and AI Integration Engineer** with experience building
+**end-to-end, production-ready systems** across **SaaS, fintech, healthcare, social platforms, and AI products**.
 
-I specialize in translating complex product requirements into **clean, intuitive, and high-performance digital experiences**, backed by reliable full-stack architecture.
+I work comfortably across the **entire stack** — designing backend services, APIs, databases, and event-driven systems, while also delivering clean, scalable, and accessible user interfaces.
 
-- 💻 Frontend specialist: **React, Next.js, TypeScript**
-- 🤖 AI integrations: **OpenAI, Gemini, Replicate, AI Agents**
-- ⚡ Performance-driven & scalable UI systems
+- 🧠 Full-stack ownership: **frontend, backend, database, and infrastructure**
+- 🧩 Backend systems: **NestJS, Node.js, APIs, authentication, workflows**
+- 🤖 AI-powered products: **OpenAI, Gemini, Replicate, AI agents**
+- ⚡ Performance, scalability, and clean architecture
 - 🌍 Open to **global roles, research, and collaborations**
 
 ---
 
-## 🧠 Core Strengths
+## 🧠 Engineering Focus
 
-- **Frontend Architecture & UI Systems**
-- **AI-Powered Application Development**
-- **Performance Optimization & Accessibility**
-- **API Integration (REST & GraphQL)**
-- **SaaS & Event-Driven Systems**
+- **Backend Architecture & API Design**
+- **Full-Stack SaaS Development**
+- **AI-Driven Systems & Automation**
+- **Event-Driven & Distributed Workflows**
+- **Performance, Security & Reliability**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🟢 Languages
+- JavaScript (ES6+), TypeScript, Python
+- HTML5, CSS3, SCSS
+
+### ⚫ Backend & APIs
+- Node.js, **NestJS**
+- REST & GraphQL APIs
+- tRPC
+- Authentication & Authorization
+- WebSockets & Real-time Systems
+
+### ⚪ Databases & ORMs
+- PostgreSQL, MongoDB
+- Firebase, Supabase
+- Drizzle ORM, Prisma
+
 ### 🟢 Frontend
 - React.js, Next.js (App Router)
-- TypeScript, JavaScript (ES6+)
-- Tailwind CSS, Shadcn/ui, MUI, Chakra UI
+- Tailwind CSS, Shadcn/ui, Chakra UI, MUI
 - Framer Motion, Radix UI
 
-### ⚫ State & Testing
-- Redux Toolkit, Zustand, Context API
-- Jest, React Testing Library, Cypress
-
-### ⚪ Backend & APIs
-- Node.js, tRPC
-- REST & GraphQL APIs
-- Firebase, Supabase
-- PostgreSQL, MongoDB
-
-### 🟢 AI & Automation
+### ⚫ AI & Automation
 - OpenAI API
 - Gemini AI
 - Replicate API
+- AI Agents
 - Inngest (event-driven workflows)
-- AI Agents & Conversational Systems
 
-### ⚫ DevOps & Cloud
+### ⚪ DevOps & Cloud
 - Git & GitHub Actions
 - Docker
 - Vercel, Netlify
@@ -87,44 +95,47 @@ I specialize in translating complex product requirements into **clean, intuitive
 ## 📌 Featured Projects
 
 ### 🟢 SaaS AI Video Conferencing Platform
-**Tech:** Next.js 15, React 19, OpenAI, Stream SDK, tRPC, PostgreSQL  
+**Full-Stack SaaS | AI-Driven System**
 
-- Built a full-stack SaaS platform with **real-time AI agents in video calls**
-- AI agents join meetings, transcribe conversations, and generate summaries
-- Event-driven workflows using **Inngest**
-- Secure auth and SaaS billing with subscription tiers
+- Designed and built a full-stack video platform with **AI agents joining live meetings**
+- Backend services handling **events, transcription, AI processing, and summaries**
+- Type-safe APIs using **tRPC**, PostgreSQL with **Drizzle ORM**
+- Real-time audio/video with **Stream SDK**
+- Secure authentication and subscription billing
 
 🔗 Repo: https://github.com/kinglove58/ai_agent
 
 ---
 
 ### 🟢 AI Image Generation Platform
-**Tech:** React, Next.js, TypeScript, Tailwind CSS, Replicate API  
+**Full-Stack + AI Integration**
 
-- AI platform for instant image generation and remixing
-- Clean, responsive UI with fast rendering
-- Focused on usability and creative workflows
+- Backend-powered AI image generation and remixing
+- Integrated **Replicate API**
+- End-to-end flow: request → processing → delivery
+- Clean, scalable UI and backend handling
 
 🔗 Repo: https://github.com/kinglove58/Mediova-Ai
 
 ---
 
 ### 🟢 Fitness AI Assistant
-**Tech:** React, Next.js, Gemini AI, Vapi API  
+**AI-Driven Full-Stack Application**
 
-- AI-powered fitness coach with personalized recommendations
-- Real-time interactive conversations
-- Designed for scalability and user engagement
+- AI-powered fitness assistant with personalized recommendations
+- Integrated **Gemini AI** and **Vapi API**
+- Backend logic managing conversations, context, and responses
 
 🔗 Repo: https://github.com/kinglove58/ai-fitness-agent
 
 ---
 
 ### 🟢 University Social Media Platform
-**Tech:** React, Next.js, TypeScript, Tailwind CSS  
+**Full-Stack Web Application**
 
-- Secure, university-exclusive chat and networking platform
-- Role-based access and real-time communication
+- Secure authentication and role-based access
+- Real-time messaging and social interactions
+- Backend + frontend built as a unified system
 
 🔗 Repo: https://github.com/kinglove58/fuoye-chatapp
 
@@ -145,10 +156,10 @@ I specialize in translating complex product requirements into **clean, intuitive
 - **B.Eng Civil & Environmental Engineering**  
   Federal University of Technology, Akure — *GPA: 4.51 / 5.0*
 
-- **Career Essentials in Software Development** — Microsoft & LinkedIn  
-- **Career Essentials in Generative AI** — Microsoft & LinkedIn  
-- **Meta Front-End Developer Certification**
-- **freeCodeCamp JavaScript Algorithms & Data Structures**
+- Microsoft & LinkedIn — Career Essentials in Software Development  
+- Microsoft & LinkedIn — Career Essentials in Generative AI  
+- Meta — Front-End Developer Certification  
+- freeCodeCamp — JavaScript Algorithms & Data Structures
 
 ---
 
@@ -174,6 +185,6 @@ I specialize in translating complex product requirements into **clean, intuitive
 
 <p align="center">
   <strong style="color:#22c55e;">
-    Building the future with clean code, strong systems, and AI.
+    Engineering complete systems — from database to API to UI, powered by AI.
   </strong>
 </p>
