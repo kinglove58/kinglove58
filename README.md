@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <span style="color:#22c55e;">Hi, I'm</span> 
-  <strong>Obafemi Elijah</strong> 👋
+  <strong>Obafemi</strong> 
 </h1>
 
 <h3 align="center">
